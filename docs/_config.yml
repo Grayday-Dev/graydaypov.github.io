@@ -27,6 +27,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: graydaypov
 github_username:  graydaypov
 
+navbar-links:
+ GraydayPOV: "https://graydaypov.com"
+
+social-network-links:
+  email: "admin@grayday.dev"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  instagram: graydaypov
+
+rss-description: This website is a blog for graydaypov.com
+
+share-links-active:
+  instagram: true
+
+url-pretty: "https://graydaypov.com"
+
+title-on-all-pages: true
+
+
 # Build settings
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
