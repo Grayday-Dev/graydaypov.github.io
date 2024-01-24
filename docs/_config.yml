@@ -28,7 +28,7 @@ twitter_username: graydaypov
 github_username:  graydaypov
 
 # Build settings
-remote_theme: jekyll-theme-midnight
+remote_theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
