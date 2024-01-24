@@ -28,7 +28,7 @@ twitter_username: graydaypov
 github_username:  graydaypov
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
